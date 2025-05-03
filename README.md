@@ -1,10 +1,6 @@
 # challenge-alura-store
 <h1 align="center"> Desafio data Science </h1>
 
-<p align="left">
-  <img src="C:\Users\sadem\Pictures/logo.png" alt="Cyrix Logo" width="100"/>
-</p>
-
 # Challenge-Alura-Store
 
 ![NPM Version](https://img.shields.io/npm/v/npm)
