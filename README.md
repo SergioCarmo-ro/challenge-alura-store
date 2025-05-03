@@ -13,8 +13,9 @@ As análise e extração dos dados teve como base de pesquisa as situações sob
 - Media de Avaliação
 - Produtos mais e menos vendidos
 - Custos médios do Frete.
+
 Para que através das analises de dados o Sr. João possa obter a informação
-exata de qual loja ele deve dá descontinuidade e vender. 
+exata de qual loja ele deve dá descontinuidade e vender.< 
 
 ## 🐍 Tecnologias e Ferramentas
 
