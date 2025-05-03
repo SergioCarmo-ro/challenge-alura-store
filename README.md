@@ -1,4 +1,3 @@
-# challenge-alura-store
 <h1 align="center"> Desafio data Science </h1>
 
 # Challenge-Alura-Store
