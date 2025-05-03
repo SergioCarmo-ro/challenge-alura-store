@@ -1,5 +1,4 @@
 # challenge-alura-store
-Desafio data Science
 <h1 align="center"> Desafio data Science </h1>
 ### Nesse Desafio de Data Sciencie, foi feito a importação dataset através da biblioteca do pandas.
 ## Analise e extração dos dados para obter:
