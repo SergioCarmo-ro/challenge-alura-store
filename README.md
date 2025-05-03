@@ -2,7 +2,7 @@
 <h1 align="center"> Desafio data Science </h1>
 
 <p align="left">
-  <img src="logo.png" alt="Cyrix Logo" width="100"/>
+  <img src="C:\Users\sadem\Pictures/logo.png" alt="Cyrix Logo" width="100"/>
 </p>
 
 # Challenge-Alura-Store
