@@ -1,16 +1,23 @@
 # challenge-alura-store
-<h1 align="center"> Desafio data Science 
+<h1 align="center"> Desafio data Science </h1>
 
-  Nesse Desafio de Data Sciencie, foi feito a importação dataset através da biblioteca do pandas.
-  Analise e extração dos dados para obter:
-+ Faturamento Total de Cada Loja 
-+ Categorias mais populares
-+ Media de Avaliação
-+ Produtos mais e menos vendidos 
-+  Custos médios do Frete
-  <table>
-    <tr></tr>
+<p align="left">
+  <img src="Lojas.png" alt="Cyrix Logo" width="100"/>
+</p>
 
-</h1>
+# Challenge-Alura-Store
 
-.
+![NPM Version](https://img.shields.io/npm/v/npm)
+
+> Descrição curta do seu projeto. Explique em uma linha o que ele faz ou resolve.
+
+## 🐍 Tecnologias e Ferramentas
+
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- **Python 3.10+**
+- **Dataset** Os dados das lojas no Drive do Google
+## 🚀 Como rodar o projeto
+### Pré-requisitos
+- Linguagem Python 
+- Uso do colaboratory
