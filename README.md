@@ -35,3 +35,5 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - import pandas as pd
 - list Comprehension.
 - import matplotlib.pyplot as plt
+
+  Att: Sergio Ademir Rocha
