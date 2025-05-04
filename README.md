@@ -36,4 +36,4 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - list Comprehension.
 - import matplotlib.pyplot as plt
 
-  Att: Sergio Ademir Rocha
+                                                                         Sergio Ademir Rocha
