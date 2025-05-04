@@ -21,6 +21,8 @@
 Para que através das analises de dados o Sr. João possa obter a informação
 exata de qual loja ele deve dá descontinuidade e vender.< 
 
+<a href="https://www.flaticon.com/free-icons/python" title="python icons">Python icons created by Freepik - Flaticon</a>
+
 ## 🐍 Tecnologias e Ferramentas
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
@@ -31,3 +33,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 ### Pré-requisitos
 - Linguagem Python 
 - Uso do colaboratory
+- import da biblioteca pandas
+- import pandas as pd
+- list Comprehension.
+- import matplotlib.pyplot as plt
