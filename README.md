@@ -8,7 +8,7 @@
 > Nesse Desafio de Data Sciencie, fizemos o Upload do dataset das Lojas Alura Store
 > para o Drive do Google
 > E para o desenvolvimento das análise o colaboratory do Google.
-> Foi feito a importação dataset através da biblioteca do pandas.
+> O projeto foi desenvolvido utilizando Python e bibliotecas populares de ciência de dados como Pandas, Matplotlib e Jupyter Notebook.
 > As análise e extração dos dados teve como base de pesquisa as situações sobre o:
 - Faturamento Total de Cada Loja.
 - Categorias mais populares.
