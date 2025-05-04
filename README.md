@@ -21,7 +21,7 @@
 Para que através das analises de dados o Sr. João possa obter a informação
 exata de qual loja ele deve dá descontinuidade e vender.
 
-![python](https://github.com/user-attachments/assets/c07fe468-4fee-42c2-a617-b3394e739aaa largura  largura="200" />)
+![python]("https://github.com/user-attachments/assets/c07fe468-4fee-42c2-a617-b3394e739aaa largura"  largura="200" />)
 
 
 ## 🐍 Tecnologias e Ferramentas
