@@ -19,7 +19,9 @@
 > Além de Recomendarmos ao Sr. João a melhor opção de venda e eliminação de uma loja. 
 
 Para que através das analises de dados o Sr. João possa obter a informação
-exata de qual loja ele deve dá descontinuidade e vender.< 
+exata de qual loja ele deve dá descontinuidade e vender.
+
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="file:///C:/Users/sadem/Downloads/python%20(1).png">
 
 ## 🐍 Tecnologias e Ferramentas
 
