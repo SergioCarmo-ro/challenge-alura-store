@@ -21,9 +21,6 @@
 Para que através das analises de dados o Sr. João possa obter a informação
 exata de qual loja ele deve dá descontinuidade e vender.< 
 
-![python (1)](https://github.com/user-attachments/assets/a5dbd551-cbf8-42ae-a4e7-ee4395e2417c)
-
-
 ## 🐍 Tecnologias e Ferramentas
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
