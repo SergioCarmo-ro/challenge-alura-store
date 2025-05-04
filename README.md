@@ -21,7 +21,7 @@
 Para que através das analises de dados o Sr. João possa obter a informação
 exata de qual loja ele deve dá descontinuidade e vender.< 
 
-<a href="https://www.flaticon.com/free-icons/python" title="python icons">Python icons created by Freepik - Flaticon</a>
+<a href="C:\Users\sadem\Downloads="python icons">Python icons created by Freepik - Flaticon</a>
 
 ## 🐍 Tecnologias e Ferramentas
 
