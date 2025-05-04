@@ -17,14 +17,11 @@
 - Custos médios do Frete.
 > Ao término plotamos gráficos e mostamos as análises.
 > Além de Recomendarmos ao Sr. João a melhor opção de venda e eliminação de uma loja. 
-
-Para que através das analises de dados o Sr. João possa obter a informação
-exata de qual loja ele deve dá descontinuidade e vender.
-
-![python]("https://github.com/user-attachments/assets/c07fe468-4fee-42c2-a617-b3394e739aaa largura"  largura="200" />)
+> Para que através das analises de dados o Sr. João possa obter a informação
+  exata de qual loja ele deve dá descontinuidade e vender.
 
 
-## 🐍 Tecnologias e Ferramentas
+## 🐍 👨🏾‍💻 Tecnologias e Ferramentas
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
