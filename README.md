@@ -4,7 +4,8 @@
 
 ![NPM Version](https://img.shields.io/npm/v/npm)
 
-https://img.shields.io/badge/Python-Data%20Sciencie-Azul%20Marinho
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-Data%20Sciencie-Azul%20Marinho">
+
 
 > Nesse Desafio de Data Sciencie, fizemos o Upload do dataset das Lojas Alura Store
 > para o Drive do Google
