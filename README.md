@@ -4,15 +4,18 @@
 
 ![NPM Version](https://img.shields.io/npm/v/npm)
 
-> Nesse Desafio de Data Sciencie, Upload do dataset para o Drive do Google
-E para o desenvolvimento das análise o colaboratory do Google.
-Foi feito a importação dataset através da biblioteca do pandas.
-As análise e extração dos dados teve como base de pesquisa as situações sobre o:
-- Faturamento Total de    Cada Loja
-- Categorias mais populares
-- Media de Avaliação
-- Produtos mais e menos vendidos
+> Nesse Desafio de Data Sciencie, fizemos o Upload do dataset das Lojas Alura Store
+> para o Drive do Google
+> E para o desenvolvimento das análise o colaboratory do Google.
+> Foi feito a importação dataset através da biblioteca do pandas.
+> As análise e extração dos dados teve como base de pesquisa as situações sobre o:
+- Faturamento Total de Cada Loja.
+- Categorias mais populares.
+- Media de Avaliação.
+- Produtos mais e menos vendidos.
 - Custos médios do Frete.
+> Ao término plotamos gráficos e mostamos as análises.
+> Além de Recomendarmos ao Sr. João a melhor opção de venda e eliminação de uma loja. 
 
 Para que através das analises de dados o Sr. João possa obter a informação
 exata de qual loja ele deve dá descontinuidade e vender.< 
